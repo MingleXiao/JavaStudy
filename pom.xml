@@ -10,5 +10,6 @@
     <modules>
         <module>freemakerdemo</module>
         <module>testproject</module>
+        <module>threaddemo</module>
     </modules>
 </project>
