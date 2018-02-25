@@ -12,6 +12,7 @@
         <module>testproject</module>
         <module>threaddemo</module>
         <module>undertowdemo</module>
+        <module>biodemo</module>
     </modules>
     <dependencies>
         <!-- swagger2依赖包-->
