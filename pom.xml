@@ -11,6 +11,7 @@
         <module>freemakerdemo</module>
         <module>testproject</module>
         <module>threaddemo</module>
+        <module>undertowdemo</module>
     </modules>
     <dependencies>
         <!-- swagger2依赖包-->
