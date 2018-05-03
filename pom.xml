@@ -13,6 +13,7 @@
         <module>threaddemo</module>
         <module>undertowdemo</module>
         <module>biodemo</module>
+        <module>jenkinsdemo</module>
     </modules>
     <dependencies>
         <!-- swagger2依赖包-->
